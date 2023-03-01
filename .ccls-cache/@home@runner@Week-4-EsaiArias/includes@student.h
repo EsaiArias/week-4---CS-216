@@ -1,5 +1,3 @@
-//#ifndef student_h
-//#define student_h
 #include <iomanip>
 #include <iostream>
 
@@ -23,4 +21,3 @@ private:
   int studentID;
   static int ID;
 };
-//#endif

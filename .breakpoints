@@ -1,12 +1,3 @@
 {
-  "files": {
-    "includes/student.cpp": [
-      {
-        "id": "9cf94159-ffaa-492c-a30b-87d9484f0200",
-        "line": 45,
-        "version": 896,
-        "index": 907
-      }
-    ]
-  }
+  "files": {}
 }
